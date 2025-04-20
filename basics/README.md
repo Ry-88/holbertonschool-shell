@@ -7,3 +7,4 @@ ls -lan this command display current directory in a long format with hidden fils
 mkdir /directory/name of directory this command create new directory
 mv this command move file or directory to anothr place in file system
 rm this command delete a file in system
+rmdir this command delete a directory in system
