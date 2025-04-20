@@ -1,2 +1,2 @@
 pwd print the cuurent path
-file file_name print the content of file
+ls print the content list of file
