@@ -1,2 +1,2 @@
 #!/bin/bash
-parallel ::: "ls -la" "ls -la ../"  "ls -la /boot"
+parallel ::: "ls -la" "ls -la /holbertonschool-shell/"  "ls -la /boot"
