@@ -4,3 +4,4 @@ cd change directory to home directory
 ls -l this command display current directory in a long format
 ls -la this command display current directory in a long format with hidden fils (start with .)
 ls -lan this command display current directory in a long format with hidden fils (start with .) and with user and groub IDs
+mkdir /directory/name of directory this command create new directory
