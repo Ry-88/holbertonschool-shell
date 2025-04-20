@@ -8,3 +8,4 @@ mkdir /directory/name of directory this command create new directory
 mv this command move file or directory to anothr place in file system
 rm this command delete a file in system
 rmdir this command delete a directory in system
+cd - this command change directory to previous directory
