@@ -12,3 +12,4 @@ cd - this command change directory to previous directory
 ls -la . .. /boot this command list all files in current directory and parent and /boot as a long format with hidden files
 file this command print the type of file name
 ln -s this command create  symbolic link
+cp -u this command copy the file to another place or file
