@@ -9,3 +9,4 @@ mv this command move file or directory to anothr place in file system
 rm this command delete a file in system
 rmdir this command delete a directory in system
 cd - this command change directory to previous directory
+ls -la . .. /boot this command list all files in current directory and parent and /boot as a long format with hidden files
