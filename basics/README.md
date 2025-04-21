@@ -15,3 +15,4 @@ ln -s this command create  symbolic link
 cp -u this command copy the file to another place or file
 mv [[:upper:]]* this command move all files with start uppercase
 rm *~ this command delete all files that end with ~
+mkdir directory1 directory/dir2 directory/dir2/dir3 this command create new three directory
