@@ -3,3 +3,4 @@ whoami this command to print current user
 groups this commsnd print the groups is current user part of
 chown this command change the owner of file
 touch this command create new file
+chmod 674 filename this command to change permissions
