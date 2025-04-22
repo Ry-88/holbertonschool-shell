@@ -5,4 +5,5 @@ chown this command change the owner of file
 touch this command create new file
 chmod u+x filename this command to adds execute permission to the owner of the file
 chmod 754 filename this command adds execute permission to the owner and the group owner, and read permission to other users
-chmod a+x filename this command dds execution permission to the owner, the group owner and the other useris
+chmod a+x filename this command adds execution permission to the owner, the group owner and the other useris
+chmod 007 filename this comand adds full permission to user only
