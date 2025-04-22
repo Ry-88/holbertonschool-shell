@@ -9,3 +9,5 @@ chmod a+x filename this command adds execution permission to the owner, the grou
 chmod 007 filename this comand adds full permission to user only
 chmod 753 filename this command adds full permission to user and read,execute for group and write,execute to others
 chmod ug=rw,o=r this command adds read,write for user and group, read only for others
+chmod --refernce=filename filename this command copy permission form first file to secound file
+
