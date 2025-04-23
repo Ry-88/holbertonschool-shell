@@ -1,0 +1,2 @@
+#!/bin/bash
+(set -o posix; set); echo; printenv; echo; declare -F
