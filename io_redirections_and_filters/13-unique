@@ -1,2 +1,2 @@
-#1/bin/bash
-cat | sort | uniq -u | tee /dev/tty
+#!/bin/bash
+sort | uniq -u
